@@ -247,6 +247,7 @@ LOCAL_SRC_FILES:= \
 	src/utils/SkParseColor.cpp \
 	src/utils/SkParsePath.cpp \
 	src/utils/SkProxyCanvas.cpp \
+	src/views/SkTextBox.cpp \
 	src/utils/SkSfntUtils.cpp \
 	src/utils/SkUnitMappers.cpp
 
